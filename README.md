@@ -8,18 +8,22 @@ This is a Minesweeper game implemented in Python using Pygame.
 
 1. Open a terminal in the repository directory.
 2. Run the setup script:
-   ./setup.sh
+   `./setup.sh`
 
 ### For Windows:
 
 1. Open Command Prompt in the repository directory.
 2. Run the setup script:
-   setup.bat
+   `setup.bat`
+   
 These scripts will install Python if it's not already installed, and then install the required dependencies.
 
 ## Running the Game
 
 After setup, you can run the game using:
-python minesweeper.py or python3 minesweeper.py
+```
+python main.py
+python3 main.py
+```
 
 Enjoy playing Minesweeper!
